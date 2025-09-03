@@ -1,4 +1,5 @@
 **AIRBNB MARKET AND REAL-ESTATE ANALYSIS**
+
 This project explores the Airbnb market and real estate trends using a combination of Excel and Power BI. It provides insights into performance KPIs,  and product listing insights to support better decision making for property managers, investors and city planners.
 
 **Objectives & Analysis Questions**
@@ -18,9 +19,12 @@ This project explores the Airbnb market and real estate trends using a combinati
  * Revenue/pricing patterns by ZIP code or region
 
 **Tools Used**
+
 Excel – For data formatting, column adjustments, and final touch ups
 Power BI – Interactive dashboard and data visualization
-Cleaning Steps Included
+
+**Cleaning Steps Included**
+
 Removing duplicate rows
 Handling missing values
 Renaming messy column headers
