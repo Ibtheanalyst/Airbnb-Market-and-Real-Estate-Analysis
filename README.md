@@ -20,13 +20,13 @@ This project explores the Airbnb market and real estate trends using a combinati
 
 **Tools Used**
 
-Excel – For data formatting, column adjustments, and final touch ups
-Power BI – Interactive dashboard and data visualization
+ * Excel – For data formatting, column adjustments, and final touch ups	
+ * Power BI – Interactive dashboard and data visualization
 
 **Cleaning Steps Included**
 
 Removing duplicate rows
-Handling missing values
+Handling missing values		
 Renaming messy column headers
 Data type conversion
 Fixing inconsistencies
