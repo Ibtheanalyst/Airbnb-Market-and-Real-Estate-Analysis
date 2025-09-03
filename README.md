@@ -1,4 +1,4 @@
-This project explores the Airbnb market and real estate trends using a combination of Exceland Power BI. It provides insights into performance KPIs,  and product listing insights to support better decision making for property managers, investors and city planners.
+This project explores the Airbnb market and real estate trends using a combination of Excel and Power BI. It provides insights into performance KPIs,  and product listing insights to support better decision making for property managers, investors and city planners.
 
 Objectives & Analysis Questions
 1. Market Performance KPIs
